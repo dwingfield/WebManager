@@ -1,0 +1,44 @@
+[
+    {
+        "name": "php-mail-client/client",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/php-mail-client/Client.git",
+            "reference": "924c7d941a271879f0831eaf42f492a8330b61d1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/php-mail-client/Client/zipball/924c7d941a271879f0831eaf42f492a8330b61d1",
+            "reference": "924c7d941a271879f0831eaf42f492a8330b61d1",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">= 5.4.0"
+        },
+        "require-dev": {
+            "nette/tester": "@dev"
+        },
+        "time": "2016-09-26T14:40:33+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "files": [
+                "MailLibrary/loader.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Tomáš Blatný",
+                "email": "blatny.tomas@seznam.cz",
+                "homepage": "http://tomasblatny.eu"
+            }
+        ],
+        "description": "Full featured PHP mail client. Create, edit, delete, move and set flags to messages with ease! Drivers for IMAP4 and Microsoft Exchange Web Services available."
+    }
+]

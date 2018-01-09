@@ -1,0 +1,13 @@
+{
+    "name": "vendor/web-manager",
+    "description": "Description of project WebManager.",
+    "authors": [
+        {
+            "name": "David Wingfield",
+            "email": "dwingfield@cohere.com"
+        }
+    ],
+    "require": {
+        "php-mail-client/client": "dev-master"
+    }
+}
