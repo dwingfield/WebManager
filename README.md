@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## WebManager
+### Site organizer
 
 You can use the [editor on GitHub](https://github.com/dwingfield/WebManager/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
